@@ -1,0 +1,21 @@
+{
+  "name": "doibot-practice",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "doisan": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h-imamoto/doibot-practice.git"
+  },
+  "author": "Hikaru Imamoto <imamotohikaru@gmail.com> (https://github.com/h-imamoto)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h-imamoto/doibot-practice/issues"
+  },
+  "homepage": "https://github.com/h-imamoto/doibot-practice#readme"
+}
